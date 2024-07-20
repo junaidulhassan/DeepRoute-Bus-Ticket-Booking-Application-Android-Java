@@ -1,2 +1,1 @@
-# DeepRoute-Bus-Ticket-Booking-Application-Android-Java
-DeepRoute is a Online Bus ticket booking application.
+# Smart Thinker will be decide what will be next using time series problem.
